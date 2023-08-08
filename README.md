@@ -12,7 +12,7 @@ Story by [Julett Pineda](https://www.linkedin.com/in/julettpineda/).
 
 ## Dataset
 
-The file `environmental defenders database.xlsx` contains the data our analysis is based on. For further information about its structure please refer to the `Metadata` sheet in the file.
+The file `database.xlsx` contains the data our analysis is based on. For further information about its structure please refer to the `Metadata` sheet in the file.
 
 
 ## Data source
